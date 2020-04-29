@@ -1,0 +1,6 @@
+{
+    "host": "0.0.0.0",
+    "port": 5700,
+    "post_url": "http://127.0.0.1:10086/coolq",
+    "log_level": "debug"
+}
